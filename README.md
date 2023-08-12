@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Braydon's GitHub Banner](./assets/GitHubHeader.png)](https://braydoncoyer.dev)
+[![Braydon's GitHub Banner](./assets/88eaaaef-1f5f-4921-9748-5a07f0ea5d97.jpeg)](https://nithilan.dev)
 
 <!--
 **sathariels/sathariels** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
