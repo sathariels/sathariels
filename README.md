@@ -4,7 +4,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/braydon-coyer/)
 ##### Hey There 👋
 
-##### Hi there, I’m Nithilan, a curious and creative high school student from Detroit, Michigan. I love learning new things and programming cool stuff. I’m especially interested in game development and artificial intelligence. I have experience with Python, lua, Html, and Php. I am always intrested to learn more and expand my horizons
+##### I’m Nithilan, a curious and creative high school student from Detroit, Michigan. I love learning new things and programming cool stuff. I’m especially interested in game development and artificial intelligence. I have experience with Python, lua, Html, and Php. I am always intrested to learn more and expand my horizons
 
 ###### Want to learn more, check out my website ([[https](https://nithilan.dev](https://nithilan.dev)):
 
