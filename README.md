@@ -6,8 +6,7 @@
 
 ##### I’m Nithilan, a curious and creative high school student from Detroit, Michigan. I love learning new things and programming cool stuff. I’m especially interested in game development and artificial intelligence. I have experience with Python, lua, Html, and Php. I am always intrested to learn more and expand my horizons
 
-###### Want to learn more, check out my website ([[https](https://nithilan.dev](https://nithilan.dev)):
-
+###### Want to learn more, check out my website [![My Website](https://nithilan.dev)]
 
 <!--
 **sathariels/sathariels** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
