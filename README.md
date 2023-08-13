@@ -25,7 +25,7 @@
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=sathariels&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Nithilan's GitHub Stats" />
 </a>
 
-[](https://img.shields.io/badge/Code-Lua-informational?style=flat&logo=lua&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-LUA-informational?style=flat&logo=lua&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css&logoColor=white&color=4AB197)
