@@ -1,7 +1,7 @@
 [![Braydon's GitHub Banner](./assets/88eaaaef-1f5f-4921-9748-5a07f0ea5d97.jpeg)](https://nithilan.dev)
 [![Visits Badge](https://badges.pufler.dev/visits/braydoncoyer/braydoncoyer)](https:nithilan.dev)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/BraydonCoyer)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/braydon-coyer/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/nithilan-kumaran/)
 ## Hey There 👋
 
 ## I’m Nithilan, a curious and creative high school student from Detroit, Michigan. I love learning new things and programming cool stuff. I’m especially interested in game development and artificial intelligence. I have experience with Python, lua, HTML, Java, and PHP. I am always intrested to learn more and expand my horizons
