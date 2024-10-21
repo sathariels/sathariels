@@ -4,7 +4,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/nithilan-kumaran-a99355299)
 ## Hey There 👋
 
-## I’m Nithilan, a curious and creative high school student from Detroit, Michigan. I love learning new things and programming cool stuff. I’m especially interested in game development and artificial intelligence. I have experience with Python, lua, HTML, Java, and PHP. I am always intrested to learn more and expand my horizons
+## I'm Nithilan, a passionate Computer Engineering student at UW-Madison with a love for game development and artificial intelligence. I enjoy programming in Python, Lua, HTML, Java, and PHP. I also write articles about Roblox and enjoy helping others by sharing my knowledge. I'm always eager to learn more and explore new horizons in technology.
 
 ## Want to learn more, check out my website,[Click Here](https://nithilan.dev)
 
