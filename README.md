@@ -10,7 +10,11 @@
 
 <!-- Pinned Repositories -->
 
-<a href="https://github.com/sathariels/autoTyperFree">
+<a href="https://github.com/sathariels/context-engineering-intro-GeminiCLI">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=sathariels&repo=autoTyperFree&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<a href="https://github.com/sathariels/2DGameEngine">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=sathariels&repo=autoTyperFree&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
