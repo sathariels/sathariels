@@ -1,53 +1,59 @@
-[![Braydon's GitHub Banner](./assets/88eaaaef-1f5f-4921-9748-5a07f0ea5d97.jpeg)](https://nithilan.dev)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/nithilan-kumaran-a99355299)
+[![Sathariels' GitHub Banner](./assets/88eaaaef-1f5f-4921-9748-5a07f0ea5d97.jpeg)](https://nithilan.dev)
+
+<div align="center">
+
+  <a href="https://twitter.com/Satharielsa">
+    <img src="https://img.shields.io/badge/Twitter-00bfff?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/nithilan-kumaran">
+    <img src="https://img.shields.io/badge/LinkedIn-8a2be2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://medium.com/@Sathariels">
+    <img src="https://img.shields.io/badge/Medium-00bfff?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
+  </a>
+
+</div>
+
 ## Hey There 👋
 
-## I'm Nithilan, a passionate Computer Engineering student at UW-Madison with a love for game development and artificial intelligence. I enjoy programming in Python, Lua, C++, and Java. I also write articles about Roblox game devlopment tips and other technologies I learn. I enjoy helping others by sharing my knowledge. I'm always eager to learn more and explore new horizons in technology.
+I'm Nithilan, but online I go by **Sathariels**. I'm into **Game Development** and **AI**.
 
-## Want to learn more, check out my website,[Click Here](https://nithilan.dev)
+I program in **Python**, **Lua**, **C++**, **Java**, and **SQL**. I write articles on **Medium** about AI features, new tech, and Roblox tips. I do a lot of **3D modeling**, and my **Midjourney** art can be found on my **Twitter**.
+
+<br/>
+
+<div align="center">
+
+  <img src="https://img.shields.io/badge/Python-8a2be2?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
+  <img src="https://img.shields.io/badge/Lua-00bfff?style=for-the-badge&logo=lua&logoColor=white" alt="Lua Badge"/>
+  <img src="https://img.shields.io/badge/C++-8a2be2?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ Badge"/>
+  <img src="https://img.shields.io/badge/Java-00bfff?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java Badge"/>
+  <img src="https://img.shields.io/badge/SQL-8a2be2?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL Badge"/>
+
+</div>
+
+<br/>
+
+<!-- Stats Section -->
+<div align="center">
+
+<a href="https://github.com/sathariels">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sathariels&show_icons=true&count_private=true&include_all_commits=true&title_color=8a2be2&text_color=ffffff&icon_color=00bfff&bg_color=151515&hide_border=true" alt="Sathariels' GitHub Stats" />
+</a>
+<a href="https://github.com/sathariels">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sathariels&layout=compact&minimize_in_list=true&hide=html,css&title_color=8a2be2&text_color=ffffff&icon_color=00bfff&bg_color=151515&hide_border=true" />
+</a>
+
+</div>
+
+<br/>
 
 <!-- Pinned Repositories -->
-
-<a href="https://github.com/sathariels/context-engineering-intro-GeminiCLI">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=sathariels&repo=context-engineering-intro-GeminiCLI&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<a href="https://github.com/sathariels/2DGameEngine">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=sathariels&repo=2DGameEngine&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<br>
-<!-- GitHub Stats -->
-
-<a href="https://github.com/sathariels">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sathariels&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<a href="https://github.com/sathariels">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=sathariels&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Nithilan's GitHub Stats" />
-</a>
-
-![](https://img.shields.io/badge/Code-LUA-informational?style=flat&logo=lua&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=css&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html&logoColor=white&color=4AB197)
-
-
-
-
-
-<!--
-**sathariels/sathariels** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://github.com/sathariels/context-engineering-intro-GeminiCLI">
+    <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=sathariels&repo=context-engineering-intro-GeminiCLI&title_color=8a2be2&text_color=ffffff&icon_color=00bfff&bg_color=151515&hide_border=true" />
+  </a>
+  <a href="https://github.com/sathariels/2DGameEngine">
+    <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=sathariels&repo=2DGameEngine&title_color=8a2be2&text_color=ffffff&icon_color=00bfff&bg_color=151515&hide_border=true" />
+  </a>
+</div>
