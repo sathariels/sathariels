@@ -32,10 +32,10 @@
 ├──────────────────────────────────────────────────────────────┤
 │                                                              │
 │   c++       ██████████████████░░░░                           │
-│   rust      ████████████████░░░░░░                           │
-│   lua       ██████████████░░░░░░░░                           │
+│   lua       ████████████████░░░░░░                           │
 │   java      ██████████████░░░░░░░░                           │
 │   python    ████████████░░░░░░░░░░                           │
+│   rust      ██████████░░░░░░░░░░░░                           │
 │   sql       ██████████░░░░░░░░░░░░                           │
 │                                                              │
 └──────────────────────────────────────────────────────────────┘
@@ -47,7 +47,7 @@
 ├──────────────────────────────────────────────────────────────┤
 │                                                              │
 │   drwxr-xr-x  Meridian/        C++20 LRU cache server        │
-│   drwxr-xr-x  Marionette/      skeletal animation in C++     │
+│   drwxr-xr-x  SageRec/         C++17 graph recommender       │
 │   drwxr-xr-x  shadowIndex/     procedural C++ roguelike      │
 │   drwxr-xr-x  2DGameEngine/    C++ / SDL2 game engine        │
 │                                                              │
@@ -56,7 +56,7 @@
 
 <div align="center">
 
-[Meridian](https://github.com/sathariels/Meridian) · [Marionette](https://github.com/sathariels/Marionette) · [shadowIndex](https://github.com/sathariels/shadowIndex) · [2DGameEngine](https://github.com/sathariels/2DGameEngine)
+[Meridian](https://github.com/sathariels/Meridian) · [SageRec](https://github.com/sathariels/SageRec) · [shadowIndex](https://github.com/sathariels/shadowIndex) · [2DGameEngine](https://github.com/sathariels/2DGameEngine)
 
 </div>
 
