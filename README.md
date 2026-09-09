@@ -31,11 +31,12 @@
 │  sathariels@github ~ $ skills --list                         │
 ├──────────────────────────────────────────────────────────────┤
 │                                                              │
-│   python    ██████████████████░░░░                           │
-│   lua       ████████████████░░░░░░                           │
-│   c++       ██████████████░░░░░░░░                           │
+│   c++       ██████████████████░░░░                           │
+│   rust      ████████████████░░░░░░                           │
+│   lua       ██████████████░░░░░░░░                           │
 │   java      ██████████████░░░░░░░░                           │
-│   sql       ████████████░░░░░░░░░░                           │
+│   python    ████████████░░░░░░░░░░                           │
+│   sql       ██████████░░░░░░░░░░░░                           │
 │                                                              │
 └──────────────────────────────────────────────────────────────┘
 ```
@@ -45,17 +46,26 @@
 │  sathariels@github ~ $ ls ./projects                         │
 ├──────────────────────────────────────────────────────────────┤
 │                                                              │
-│   drwxr-xr-x  2DGameEngine/                                  │
-│   drwxr-xr-x  context-engineering-intro-GeminiCLI/           │
+│   drwxr-xr-x  Meridian/        C++20 LRU cache server        │
+│   drwxr-xr-x  Marionette/      skeletal animation in C++     │
+│   drwxr-xr-x  shadowIndex/     procedural C++ roguelike      │
+│   drwxr-xr-x  2DGameEngine/    C++ / SDL2 game engine        │
 │                                                              │
 └──────────────────────────────────────────────────────────────┘
 ```
+
+<div align="center">
+
+[Meridian](https://github.com/sathariels/Meridian) · [Marionette](https://github.com/sathariels/Marionette) · [shadowIndex](https://github.com/sathariels/shadowIndex) · [2DGameEngine](https://github.com/sathariels/2DGameEngine)
+
+</div>
 
 ```text
 ┌──────────────────────────────────────────────────────────────┐
 │  sathariels@github ~ $ links --open                          │
 ├──────────────────────────────────────────────────────────────┤
 │                                                              │
+│   [website]    →  nithilan.dev                               │
 │   [x/twitter]  →  twitter.com/Satharielsa                    │
 │   [linkedin]   →  linkedin.com/in/nithilan-kumaran           │
 │   [medium]     →  medium.com/@Sathariels                     │
