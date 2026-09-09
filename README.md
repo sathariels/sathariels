@@ -8,7 +8,7 @@
 /____/\__,_/\__/_/ /_/\__,_/_/  /_/\___/_/____/
 ```
 
-`game dev` · `ai` · `3d modeling` · `writing`
+`optimization` · `ai` · `game dev` · `writing`
 
 </div>
 
@@ -18,7 +18,7 @@
 ├──────────────────────────────────────────────────────────────┤
 │                                                              │
 │   name      : Nithilan (aka Sathariels)                      │
-│   focus     : Game Development & AI                          │
+│   focus     : Optimization & AI                              │
 │   writing   : Medium articles on AI, new tech & Roblox       │
 │   art       : 3D modeling + Midjourney (posted on Twitter)   │
 │   site      : https://nithilan.dev                           │
