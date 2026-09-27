@@ -1,7 +1,7 @@
 <div align="center">
 
 ```text
-          ✦ ｡ﾟ･ ✧ ･ﾟ｡ ✦ ｡ﾟ･ ✧ ･ﾟ｡ ✦
+          ✦ ˚ · ✧ · ˚ ✦ ˚ · ✧ · ˚ ✦
                __  __               _      __
    _________ _/ /_/ /_  ____ ______(_)__  / /____
   / ___/ __ `/ __/ __ \/ __ `/ ___/ / _ \/ / ___/
@@ -9,7 +9,7 @@
 /____/\__,_/\__/_/ /_/\__,_/_/  /_/\___/_/____/
 
      サ タ リ エ ル ス  ·  optimization × ai × game dev
-          ✦ ｡ﾟ･ ✧ ･ﾟ｡ ✦ ｡ﾟ･ ✧ ･ﾟ｡ ✦
+          ✦ ˚ · ✧ · ˚ ✦ ˚ · ✧ · ˚ ✦
 ```
 
 `optimization` · `ai` · `game dev` · `writing`
@@ -33,7 +33,7 @@
 
 <div align="center">
 
-･ﾟ✧ ──────── ✦ ──────── ✧ﾟ･
+✧ ──────── ✦ ──────── ✧
 
 </div>
 
@@ -54,7 +54,7 @@
 
 <div align="center">
 
-･ﾟ✧ ──────── ✦ ──────── ✧ﾟ･
+✧ ──────── ✦ ──────── ✧
 
 </div>
 
@@ -75,7 +75,7 @@
 
 [Meridian](https://github.com/sathariels/Meridian) · [SageRec](https://github.com/sathariels/SageRec) · [shadowIndex](https://github.com/sathariels/shadowIndex) · [2DGameEngine](https://github.com/sathariels/2DGameEngine)
 
-･ﾟ✧ ──────── ✦ ──────── ✧ﾟ･
+✧ ──────── ✦ ──────── ✧
 
 </div>
 
@@ -99,7 +99,7 @@
 ```text
 sathariels@github ~ $ exit
 
-(◕‿◕)ﾉ またね — see you next arc ✧
+(◕‿◕)ノ またね — see you next arc ✧
 [Process completed — thanks for stopping by]
 ```
 
